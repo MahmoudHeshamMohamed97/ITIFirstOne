@@ -1,0 +1,34 @@
+*AJAX to get allusers from JSONFile.
+hamdaArray = [];
+
+Localstorage:
+get all users from JSONFile 
+"allUsers"
+
+localstorage.setItem( "key","value");
+
+
+interest = [reading]
+
+
+obj = { userName: "",pas,interest,las: null }
+
+
+
+
+////////////////////////////////////////////////////////////
+
+newArray = JSON.parse(asdasdasdas )
+
+newarray.push(obj )
+
+/////////////////////////
+1-validation on all forms
+2- error on validatons
+3- check if the remember me checkbox == true ( sessionStorage("currentUser",object) )
+
+
+***********************************
+1- currentUser
+2- allUsers
+3- currentUserIndex
